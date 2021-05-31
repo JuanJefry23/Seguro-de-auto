@@ -1,4 +1,4 @@
-# Seguro-de-auto
+# CAR INSURANCE
 A website where the user can choose options and quote the price of the insurance for their cars
 
 # CAR INSURANCE 🚗 ✔️
