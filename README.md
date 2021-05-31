@@ -1,7 +1,7 @@
 # Seguro-de-auto
 A website where the user can choose options and quote the price of the insurance for their cars
 
-# CAR INSURANCE
+# CAR INSURANCE 🚗 ✔️
 
 In this website the user can quote the price of the insurance for their cars, the price will vary accord the brand, year and basic or complete kind of insurance.
 
